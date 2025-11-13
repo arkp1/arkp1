@@ -1,6 +1,5 @@
-## Hi there 👋
 
-<h1 align="center">Hey 👋, I'm A.R.K. Praneet</h1>
+<h1 align="center">Hi👋, I'm A.R.K. Praneet</h1>
 <h3 align="center">🌟 Welcome to my GitHub! I'm Praneet, a creative and enthusiastic developer who loves building cool things with code. I enjoy working on web apps, exploring new technologies, and collaborating with other passionate people. Let's connect and create something amazing together!</h3>
 
 <p align="center">
