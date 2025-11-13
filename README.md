@@ -47,7 +47,7 @@
 ## 🚀 Featured Projects
 
 - **[Image Compressor](https://github.com/arkp1/image-compressor)**
-  <br>Interactive 3D solar system simulation built with Three.js. Explore planets, control their speeds, and enjoy a beautiful UI!
+  <br>A sleek image compressor with custom quality input. Reduce your file size, control their quality, and enjoy a beautiful UI!
 - **[HTTP-Server](https://github.com/arkp1/http-server)**
   <br>Http server built from scratch.
 - **[More on my GitHub!](https://github.com/arkp1?tab=repositories)**
