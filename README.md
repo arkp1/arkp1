@@ -89,6 +89,6 @@
 ---
 
 <p align="center">
-  <i>"Code, learn, repeat. Great things take small commits."</i>
+  <i>Code, learn, repeat. Great things take small commits.</i>
 </p>
 
