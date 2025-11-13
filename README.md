@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi👋, I'm A.R.K. Praneet</h1>
-<h3 align="center">🌟 Welcome to my GitHub! I'm Praneet, a creative and enthusiastic developer who loves building cool things with code. I enjoy working on web apps, exploring new technologies, and collaborating with other passionate people. Let's connect and create something amazing together!</h3>
+<h4 align="center">🌟 Welcome to my GitHub! I'm Praneet, a creative and enthusiastic developer who loves building cool things with code. I enjoy working on web apps, exploring new technologies, and collaborating with other passionate people. Let's connect and create something amazing together!</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arkp1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -83,21 +83,6 @@
 ### 🧩 Contributions & Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkp1&theme=react-dark&hide_border=true" alt="activity graph" />
-</p>
-
----
-
-### 🔗 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/A-Praneet" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:apraneet.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/A-Praneet">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
