@@ -12,6 +12,9 @@
 ## 🧑‍💻 Connect with me
 
 <p align="center">
+    <a href="https://praneet-ark.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/arkp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
