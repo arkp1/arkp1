@@ -1,95 +1,82 @@
-
-<h1 align="center">Hi, I'm A.R.K. Praneet</h1>
-<h3 align="center"> A Passionate Developer from India 🇮🇳</h3>
-<h4 align="center">🌟 Welcome to my GitHub! I'm Praneet, a creative and enthusiastic developer who loves building cool things with code. I enjoy working on web apps, exploring new technologies, and collaborating with other passionate people. Let's connect and create something amazing together!</h4>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arkp1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <picture>
+    <source media="(max-width: 900px)" srcset="./assets/hero-mobile.svg">
+    <img src="./assets/hero.svg" width="100%" alt="A.R.K. Praneet — full-stack developer from India. Turning ideas into useful things.">
+  </picture>
 </p>
 
----
-
-## 🧑‍💻 Connect with me
-
 <p align="center">
-    <a href="https://praneet-ark.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/arkp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:praneet2656@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-    <a href="https://github.com/arkp1">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
-  </a>
+  <a href="https://praneet-ark.vercel.app/"><img src="./assets/link-portfolio.svg" width="152" alt="Visit my portfolio"></a>
+  <a href="https://www.linkedin.com/in/arkp/"><img src="./assets/link-linkedin.svg" width="152" alt="Connect on LinkedIn"></a>
+  <a href="https://leetcode.com/u/praneet7/"><img src="./assets/link-leetcode.svg" width="152" alt="Find me on LeetCode"></a>
+  <a href="mailto:praneet2656@gmail.com"><img src="./assets/link-email.svg" width="152" alt="Email me"></a>
 </p>
 
----
+<br>
 
-## 🛠️ Languages & Tools
+## 01 / A little about me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</p>
+I'm **A.R.K. Praneet**, a full-stack developer from India who enjoys the space where thoughtful design meets good engineering. From polished interfaces to the systems behind them, I like building practical things, exploring new technologies, and learning how it all works.
 
----
+**My approach:** stay curious, make it useful, and enjoy the process.
 
-## 🚀 Featured Projects
+<br>
 
-- **[Image Compressor](https://github.com/arkp1/image-compressor)**
-  <br>A sleek image compressor with custom quality input. Reduce your file size, control their quality, and enjoy a beautiful UI!
-- **[HTTP-Server](https://github.com/arkp1/http-server)**
-  <br>Http server built from scratch.
-- **[More on my GitHub!](https://github.com/arkp1?tab=repositories)**
+## 02 / Selected work
 
----
+A few things I've built, from everyday tools to the stuff under the hood.
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arkp1&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="92" align="center"><a href="https://github.com/arkp1/paste-it"><img src="./assets/paste-it.svg" width="76" alt="Paste it project icon"></a></td>
+    <td>
+      <strong><a href="https://github.com/arkp1/paste-it">Paste it</a></strong><br>
+      Share text through unlisted links that can expire by time or view count.<br>
+      <sub>NEXT.JS · TYPESCRIPT &nbsp; <a href="https://paste-it-eight.vercel.app/">LIVE&nbsp;DEMO&nbsp;↗</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="92" align="center"><a href="https://github.com/arkp1/RevPlay-P2"><img src="./assets/revplay.svg" width="76" alt="RevPlay project icon"></a></td>
+    <td>
+      <strong><a href="https://github.com/arkp1/RevPlay-P2">RevPlay</a></strong><br>
+      A full-stack music streaming app with playlists, podcasts, and artist analytics.<br>
+      <sub>JAVA · SPRING BOOT · MYSQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="92" align="center"><a href="https://github.com/arkp1/image-compressor"><img src="./assets/compressor.svg" width="76" alt="Image Compressor project icon"></a></td>
+    <td>
+      <strong><a href="https://github.com/arkp1/image-compressor">Image Compressor</a></strong><br>
+      A simple image compressor with adjustable quality and a clean interface.<br>
+      <sub>NEXT.JS · PYTHON · TAILWIND&nbsp;CSS &nbsp; <a href="https://compressit-puce.vercel.app/">LIVE&nbsp;DEMO&nbsp;↗</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="92" align="center"><a href="https://github.com/arkp1/http-server"><img src="./assets/http-server.svg" width="76" alt="HTTP Server project icon"></a></td>
+    <td>
+      <strong><a href="https://github.com/arkp1/http-server">HTTP Server</a></strong><br>
+      An HTTP server built from scratch to explore sockets and the web's foundations.<br>
+      <sub>C++ · NETWORKING</sub>
+    </td>
+  </tr>
+</table>
 
- <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkp1&layout=compact&theme=radical" alt="Top Languages" />
-</p> 
+**[Explore all my repositories →](https://github.com/arkp1?tab=repositories)**
 
----
+<br>
 
-## 🔥 GitHub Streak
+## 03 / The toolkit
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arkp1&theme=dark&hide_border=false&border_radius=5" height="220" />
-  <!-- <img src="https://github-profile-trophy.vercel.app?username=arkp1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
-</p>
+**Interfaces** &nbsp; `React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS` `Figma`
 
+**Behind the scenes** &nbsp; `Node.js` `Express` `Java` `Spring Boot` `Python` `C++`
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arkp1&theme=onedark&row=1&column=6" alt="trophies" />
-</p>
+**Data** &nbsp; `MongoDB` `PostgreSQL` `MySQL`
 
----
+<br>
 
-### 🧩 Contributions & Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkp1&theme=react-dark&hide_border=true" alt="activity graph" />
-</p>
+## 04 / Let's connect
 
----
+Have an idea, a question, or something cool to build? [Say hello](mailto:praneet2656@gmail.com) or take a look at [my portfolio](https://praneet-ark.vercel.app/). I'm always happy to connect with people who love making things.
 
-
-
+<p align="center"><sub>BUILD WITH CURIOSITY &nbsp; ✦ &nbsp; KEEP LEARNING</sub></p>
