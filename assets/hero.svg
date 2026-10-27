@@ -48,8 +48,8 @@
       <rect x="62" y="55" width="11" height="11" rx="5.5" fill="#c5f682"/>
       <text x="85" y="65" fill="#c5f682" font-size="15" font-weight="700" letter-spacing="2.5">FULL-STACK DEVELOPER / INDIA</text>
       <text x="62" y="134" fill="#b8c8c8" font-size="25" font-weight="500">Hey, I’m</text>
-      <text x="56" y="226" fill="#f4f8f3" font-size="91" font-weight="750" letter-spacing="-4">Praneet<tspan fill="#c8f77f">.</tspan></text>
-      <text x="62" y="278" fill="#c4d1cd" font-size="26" font-weight="400">Turning ideas into useful things.</text>
+      <text x="56" y="230" fill="#f4f8f3" font-family="Georgia, 'Times New Roman', serif" font-size="112" font-style="italic" font-weight="700" letter-spacing="-4">Praneet<tspan fill="#c8f77f">.</tspan></text>
+      <text x="62" y="294" fill="#c4d1cd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24">Turning ideas into useful things.</text>
       <rect x="62" y="326" width="350" height="49" rx="24.5" fill="#1a302e" stroke="#38564a"/>
       <text x="85" y="357" fill="#d8ebd6" font-size="14" font-weight="700" letter-spacing="1.5">DESIGN <tspan fill="#91c7ac">/</tspan> CODE <tspan fill="#91c7ac">/</tspan> CREATE</text>
       <text x="62" y="428" fill="#78938e" font-size="13" font-weight="600" letter-spacing="2.2">A.R.K. PRANEET <tspan fill="#557369">—</tspan> @ARKP1</text>
