@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="445" viewBox="0 0 720 445" role="img" aria-labelledby="title desc">
+  <title id="title">Good ideas start with hello.</title>
+  <desc id="desc">Have a project, a question, or just want to talk code?</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#142b2b"/><stop offset=".55" stop-color="#0c1a20"/><stop offset="1" stop-color="#111b29"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#d2fa82"/><stop offset="1" stop-color="#70e4c3"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#92eeb9" stop-opacity=".18"/><stop offset="1" stop-color="#92eeb9" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a6f7d1" stroke-opacity=".05"/></pattern>
+    <clipPath id="frame"><rect width="720" height="445" rx="24"/></clipPath>
+  </defs>
+  <style>
+    .pulse { animation: pulse 4s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="720" height="445" fill="url(#background)"/>
+    <rect width="720" height="445" fill="url(#grid)"/>
+    <circle cx="650" cy="100" r="230" fill="url(#glow)"/>
+    <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+      <circle cx="53" cy="51" r="5" fill="#c5f682"/>
+      <text x="70" y="57" fill="#c5f682" font-size="22" font-weight="700" letter-spacing="2.2">A NOTE FROM PRANEET</text>
+      <text x="48" y="144" fill="#f5f8f1" font-family="Georgia, 'Times New Roman', serif" font-size="82">Good ideas</text>
+      <text x="46" y="226" fill="#d0f58f" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-style="italic">start with hello.</text>
+      <text x="48" y="287" fill="#c4d5ce" font-size="32">Have a project, a question,</text>
+      <text x="48" y="330" fill="#c4d5ce" font-size="32">or just want to talk code?</text>
+      <text x="48" y="405" fill="#89aaa0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" letter-spacing="1">IDEAS / QUESTIONS / COLLABORATION</text>
+    </g>
+    <g transform="translate(554 36)">
+      <rect width="115" height="83" rx="17" fill="#17312f" stroke="#537569" stroke-width="1.5"/>
+      <path d="M21 25h73v40H21z" fill="#1b3935" stroke="#98d9b1" stroke-width="2" stroke-linejoin="round"/>
+      <path d="m22 27 35.5 24L93 27" fill="none" stroke="#c6f5aa" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle class="pulse" cx="94" cy="17" r="5" fill="#d0f78d"/>
+    </g>
+    <rect y="439" width="720" height="6" fill="url(#accent)"/>
+  </g>
+  <rect x=".75" y=".75" width="718.5" height="443.5" rx="23.25" fill="none" stroke="#35514c" stroke-width="1.5"/>
+</svg>

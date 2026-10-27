@@ -14,7 +14,7 @@
 
 <br>
 
-## 01 / A little about me
+## <samp>01 /</samp> *A little about me*
 
 I'm **A.R.K. Praneet**, a full-stack developer from India who enjoys the space where thoughtful design meets good engineering. From polished interfaces to the systems behind them, I like building practical things, exploring new technologies, and learning how it all works.
 
@@ -22,7 +22,7 @@ I'm **A.R.K. Praneet**, a full-stack developer from India who enjoys the space w
 
 <br>
 
-## 02 / Selected work
+## <samp>02 /</samp> *Selected work*
 
 A few things I've built, from everyday tools to the stuff under the hood.
 
@@ -65,7 +65,7 @@ A few things I've built, from everyday tools to the stuff under the hood.
 
 <br>
 
-## 03 / The toolkit
+## <samp>03 /</samp> *The toolkit*
 
 **Interfaces**
 
@@ -103,8 +103,19 @@ A few things I've built, from everyday tools to the stuff under the hood.
 
 <br>
 
-## 04 / Let's connect
+## <samp>04 /</samp> *Let's connect*
 
-Have an idea, a question, or something cool to build? [Say hello](mailto:praneet2656@gmail.com) or take a look at [my portfolio](https://praneet-ark.vercel.app/). I'm always happy to connect with people who love making things.
+<p align="center">
+  <picture>
+    <source media="(max-width: 900px)" srcset="./assets/connect-mobile.svg">
+    <img src="./assets/connect.svg" width="100%" alt="Good ideas start with hello. Have a project, a question, or just want to talk code?">
+  </picture>
+</p>
 
-<p align="center"><sub>BUILD WITH CURIOSITY &nbsp; ✦ &nbsp; KEEP LEARNING</sub></p>
+<p align="center">
+  <a href="mailto:praneet2656@gmail.com"><img src="./assets/connect-email.svg" width="152" alt="Send Praneet an email"></a>
+  <a href="https://www.linkedin.com/in/arkp/"><img src="./assets/connect-linkedin.svg" width="152" alt="Connect with Praneet on LinkedIn"></a>
+  <a href="https://praneet-ark.vercel.app/"><img src="./assets/connect-portfolio.svg" width="152" alt="Explore Praneet's portfolio"></a>
+</p>
+
+<p align="center"><sub><samp>BUILD WITH CURIOSITY &nbsp; ✦ &nbsp; KEEP LEARNING</samp></sub></p>

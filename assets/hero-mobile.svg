@@ -29,8 +29,8 @@
       <rect x="48" y="48" width="12" height="12" rx="6" fill="#c5f682"/>
       <text x="72" y="59" fill="#c5f682" font-size="20" font-weight="700" letter-spacing="2.1">FULL-STACK DEVELOPER / INDIA</text>
       <text x="48" y="121" fill="#b8c8c8" font-size="28" font-weight="500">Hey, I’m</text>
-      <text x="42" y="217" fill="#f4f8f3" font-size="100" font-weight="750" letter-spacing="-4">Praneet<tspan fill="#c8f77f">.</tspan></text>
-      <text x="48" y="264" fill="#c4d1cd" font-size="30">Turning ideas into useful things.</text>
+      <text x="42" y="229" fill="#f4f8f3" font-family="Georgia, 'Times New Roman', serif" font-size="112" font-style="italic" font-weight="700" letter-spacing="-4">Praneet<tspan fill="#c8f77f">.</tspan></text>
+      <text x="48" y="286" fill="#c4d1cd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="30">Turning ideas into useful things.</text>
       <text x="48" y="594" fill="#78938e" font-size="15" font-weight="600" letter-spacing="2">A.R.K. PRANEET <tspan fill="#557369">—</tspan> @ARKP1</text>
     </g>
     <g transform="translate(48 305)">
