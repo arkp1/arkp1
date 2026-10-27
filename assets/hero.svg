@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">A.R.K. Praneet — full-stack developer</title>
+  <desc id="desc">A dark, neon-accented introduction with an animated developer terminal.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101c24"/>
+      <stop offset="0.58" stop-color="#0a151c"/>
+      <stop offset="1" stop-color="#111725"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#d2fa82"/>
+      <stop offset="1" stop-color="#70e4c3"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#56ce9b" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#56ce9b" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#a6f7d1" stroke-opacity="0.055"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="460" rx="24"/></clipPath>
+  </defs>
+  <style>
+    .orbit { transform-origin: 940px 224px; animation: orbit 32s linear infinite; }
+    .spark { animation: breathe 4s ease-in-out infinite; }
+    .cursor { animation: blink 1.3s steps(1, end) infinite; }
+    @keyframes orbit { to { transform: rotate(360deg); } }
+    @keyframes breathe { 0%, 100% { opacity: .4; } 50% { opacity: 1; } }
+    @keyframes blink { 0%, 52% { opacity: 1; } 53%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .orbit, .spark, .cursor { animation: none; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="460" fill="url(#background)"/>
+    <rect width="1200" height="460" fill="url(#grid)"/>
+    <circle cx="1040" cy="126" r="340" fill="url(#glow)"/>
+    <circle cx="940" cy="224" r="210" fill="none" stroke="#a3f6cd" stroke-opacity="0.11"/>
+    <circle cx="940" cy="224" r="166" fill="none" stroke="#a3f6cd" stroke-opacity="0.1" stroke-dasharray="5 11"/>
+    <g class="orbit">
+      <circle cx="940" cy="14" r="5" fill="#c8fa87"/>
+      <circle cx="940" cy="434" r="3" fill="#75e8d3" opacity="0.8"/>
+    </g>
+    <g class="spark" fill="#b4f5c9">
+      <circle cx="708" cy="91" r="2"/><circle cx="1148" cy="358" r="2"/>
+      <path d="M1138 65v14m-7-7h14" stroke="#b4f5c9" stroke-width="1.5"/>
+    </g>
+
+    <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+      <rect x="62" y="55" width="11" height="11" rx="5.5" fill="#c5f682"/>
+      <text x="85" y="65" fill="#c5f682" font-size="15" font-weight="700" letter-spacing="2.5">FULL-STACK DEVELOPER / INDIA</text>
+      <text x="62" y="134" fill="#b8c8c8" font-size="25" font-weight="500">Hey, I’m</text>
+      <text x="56" y="226" fill="#f4f8f3" font-size="91" font-weight="750" letter-spacing="-4">Praneet<tspan fill="#c8f77f">.</tspan></text>
+      <text x="62" y="278" fill="#c4d1cd" font-size="26" font-weight="400">Turning ideas into useful things.</text>
+      <rect x="62" y="326" width="350" height="49" rx="24.5" fill="#1a302e" stroke="#38564a"/>
+      <text x="85" y="357" fill="#d8ebd6" font-size="14" font-weight="700" letter-spacing="1.5">DESIGN <tspan fill="#91c7ac">/</tspan> CODE <tspan fill="#91c7ac">/</tspan> CREATE</text>
+      <text x="62" y="428" fill="#78938e" font-size="13" font-weight="600" letter-spacing="2.2">A.R.K. PRANEET <tspan fill="#557369">—</tspan> @ARKP1</text>
+    </g>
+
+    <!-- A little terminal, drawn in the SVG so the profile has no external dependencies. -->
+    <g transform="translate(726 82)">
+      <rect x="0" y="0" width="406" height="292" rx="19" fill="#09141a" fill-opacity="0.96" stroke="#35514c" stroke-width="1.5"/>
+      <path d="M0 48H406" stroke="#2c4541"/>
+      <circle cx="25" cy="24" r="5" fill="#f48883"/>
+      <circle cx="43" cy="24" r="5" fill="#f1cb78"/>
+      <circle cx="61" cy="24" r="5" fill="#a9df9a"/>
+      <text x="387" y="29" fill="#728f89" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" text-anchor="end" letter-spacing="1">arkp1 / profile.ts</text>
+      <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">
+        <text x="28" y="92" fill="#dbe9e1"><tspan fill="#8be5d3">const</tspan> praneet = {</text>
+        <text x="28" y="127" fill="#dbe9e1" xml:space="preserve">  role: <tspan fill="#cafa88">"full-stack"</tspan>,</text>
+        <text x="28" y="162" fill="#dbe9e1" xml:space="preserve">  builds: <tspan fill="#cafa88">"for the web"</tspan>,</text>
+        <text x="28" y="197" fill="#dbe9e1" xml:space="preserve">  curiosity: <tspan fill="#b9a6fa">true</tspan></text>
+        <text x="28" y="232" fill="#dbe9e1">};</text>
+      </g>
+      <path d="M28 253H378" stroke="#253d39"/>
+      <text x="28" y="278" fill="#7c9b91" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="0.8">BUILD. LEARN. REPEAT.</text>
+      <rect class="cursor" x="203" y="266" width="8" height="13" rx="1" fill="#cafa88"/>
+    </g>
+    <rect x="0" y="454" width="1200" height="6" fill="url(#accent)"/>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="458.5" rx="23.25" fill="none" stroke="#35514c" stroke-width="1.5"/>
+</svg>

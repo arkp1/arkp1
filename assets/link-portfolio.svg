@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="44" viewBox="0 0 152 44">
+  <rect x="0.75" y="0.75" width="150.5" height="42.5" rx="10" fill="#d3f98c" stroke="#d3f98c" stroke-width="1.5"/>
+  <path d="M20 15h13v13H20z M24 19h5v5h-5z" fill="none" stroke="#14281f" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="43" y="27" fill="#14281f" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" font-weight="700" letter-spacing="0.6">PORTFOLIO</text>
+  <path d="M129 18h7v7m0-7-8 8" fill="none" stroke="#14281f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
