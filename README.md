@@ -67,11 +67,39 @@ A few things I've built, from everyday tools to the stuff under the hood.
 
 ## 03 / The toolkit
 
-**Interfaces** &nbsp; `React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS` `Figma`
+**Interfaces**
 
-**Behind the scenes** &nbsp; `Node.js` `Express` `Java` `Spring Boot` `Python` `C++`
+<p>
+  <img src="./assets/toolkit/react.svg" width="96" height="88" alt="React" title="React">
+  <img src="./assets/toolkit/nextjs.svg" width="96" height="88" alt="Next.js" title="Next.js">
+  <img src="./assets/toolkit/typescript.svg" width="96" height="88" alt="TypeScript" title="TypeScript">
+  <img src="./assets/toolkit/javascript.svg" width="96" height="88" alt="JavaScript" title="JavaScript">
+  <img src="./assets/toolkit/html5.svg" width="96" height="88" alt="HTML" title="HTML">
+  <img src="./assets/toolkit/css3.svg" width="96" height="88" alt="CSS" title="CSS">
+  <img src="./assets/toolkit/tailwindcss.svg" width="96" height="88" alt="Tailwind CSS" title="Tailwind CSS">
+  <img src="./assets/toolkit/figma.svg" width="96" height="88" alt="Figma" title="Figma">
+</p>
 
-**Data** &nbsp; `MongoDB` `PostgreSQL` `MySQL`
+**Behind the scenes**
+
+<p>
+  <img src="./assets/toolkit/nodejs.svg" width="96" height="88" alt="Node.js" title="Node.js">
+  <img src="./assets/toolkit/express.svg" width="96" height="88" alt="Express" title="Express">
+  <img src="./assets/toolkit/java.svg" width="96" height="88" alt="Java" title="Java">
+  <img src="./assets/toolkit/spring.svg" width="96" height="88" alt="Spring Boot" title="Spring Boot">
+  <img src="./assets/toolkit/python.svg" width="96" height="88" alt="Python" title="Python">
+  <img src="./assets/toolkit/cplusplus.svg" width="96" height="88" alt="C++" title="C++">
+</p>
+
+**Data**
+
+<p>
+  <img src="./assets/toolkit/mongodb.svg" width="96" height="88" alt="MongoDB" title="MongoDB">
+  <img src="./assets/toolkit/postgresql.svg" width="96" height="88" alt="PostgreSQL" title="PostgreSQL">
+  <img src="./assets/toolkit/mysql.svg" width="96" height="88" alt="MySQL" title="MySQL">
+</p>
+
+<!-- Toolkit artwork is adapted from Devicon; see assets/toolkit/NOTICE.txt. -->
 
 <br>
 

@@ -1,0 +1,5 @@
+Toolkit icon artwork is adapted from Devicon v2.16.0:
+https://github.com/devicons/devicon/tree/v2.16.0
+
+Devicon is distributed under the MIT license; see LICENSE.devicon.txt.
+The names and logos of individual technologies belong to their respective owners.
