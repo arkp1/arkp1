@@ -28,6 +28,14 @@ A few things I've built, from everyday tools to the stuff under the hood.
 
 <table width="100%">
   <tr>
+    <td width="92" align="center"><a href="https://github.com/arkp1/cadence"><img src="./assets/cadence.svg" width="76" alt="Cadence project icon"></a></td>
+    <td>
+      <strong><a href="https://github.com/arkp1/cadence">Cadence</a></strong><br>
+      A scheduling platform with booking pages, calendar sync, and team scheduling.<br>
+      <sub>REACT · NODE.JS · POSTGRESQL &nbsp; <a href="https://cadence-five-brown.vercel.app/">LIVE&nbsp;DEMO&nbsp;↗</a></sub>
+    </td>
+  </tr>
+  <tr>
     <td width="92" align="center"><a href="https://github.com/arkp1/paste-it"><img src="./assets/paste-it.svg" width="76" alt="Paste it project icon"></a></td>
     <td>
       <strong><a href="https://github.com/arkp1/paste-it">Paste it</a></strong><br>
@@ -49,14 +57,6 @@ A few things I've built, from everyday tools to the stuff under the hood.
       <strong><a href="https://github.com/arkp1/image-compressor">Image Compressor</a></strong><br>
       A simple image compressor with adjustable quality and a clean interface.<br>
       <sub>NEXT.JS · PYTHON · TAILWIND&nbsp;CSS &nbsp; <a href="https://compressit-puce.vercel.app/">LIVE&nbsp;DEMO&nbsp;↗</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="92" align="center"><a href="https://github.com/arkp1/http-server"><img src="./assets/http-server.svg" width="76" alt="HTTP Server project icon"></a></td>
-    <td>
-      <strong><a href="https://github.com/arkp1/http-server">HTTP Server</a></strong><br>
-      An HTTP server built from scratch to explore sockets and the web's foundations.<br>
-      <sub>C++ · NETWORKING</sub>
     </td>
   </tr>
 </table>
